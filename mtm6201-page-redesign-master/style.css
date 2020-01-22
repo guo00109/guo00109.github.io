@@ -1,0 +1,33 @@
+/* nav */
+nav#nav{
+    background-color: aliceblue;
+    border:3px solid cadetblue;
+    padding:auto;
+    text-align: center;
+}
+
+.nav-link{
+    color: black;
+}
+
+
+/* home */
+section#home{
+    background-color: azure;
+
+}
+.pagetitle{
+    text-align: left;
+}
+
+/* about*/
+#about section.about{
+    background-color: rgb(200, 245, 245);
+    color:black;
+}
+
+/* contact */
+section#contact{
+    background-color: rgb(227, 196, 255);
+    
+}
