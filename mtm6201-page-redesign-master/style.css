@@ -12,7 +12,7 @@ nav#nav{
 
 
 /* home */
-section#home{
+#hpme.home{
     background-color: azure;
 
 }
@@ -31,3 +31,5 @@ section#contact{
     background-color: rgb(227, 196, 255);
     
 }
+
+/* flexbox */
